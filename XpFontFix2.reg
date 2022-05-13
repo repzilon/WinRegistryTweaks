@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"MS Shell Dlg 2"="Tahoma"
+"MS Shell Dlg"="Tahoma"
+"Helv"="Arial"
+"MS Sans Serif 8,10,12,14,18,24"="Tahoma"
+"MS Sans Serif"="Tahoma"
+"Microsoft Sans Serif"="Tahoma"
+"Times"="Times New Roman"
+"Small Fonts"="Tahoma"
+"Tms Rmn"="Times New Roman"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Microsoft Sans Serif (TrueType)"="tahoma.ttf"
+"Microsoft Sans Serif Normal (TrueType)"="tahoma.ttf"
+"Microsoft Sans Serif Regular (TrueType)"="tahoma.ttf"
+"MS Sans Serif 8,10,12,14,18,24 (VGA res)"="tahoma.ttf"
+
+[HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\Shell\MuiCache]
+"@themeui.dll,-2037"="{Tahoma, 8 pt}"
+"@themeui.dll,-2038"="{Tahoma, 8 pt}"
+"@themeui.dll,-2039"="{Tahoma, 8 pt}"
+"@themeui.dll,-2040"="{Tahoma, 8 pt}"
+"@themeui.dll,-2041"="{Tahoma, 8 pt}"
+"@themeui.dll,-2042"="{Tahoma, 8 pt}"
