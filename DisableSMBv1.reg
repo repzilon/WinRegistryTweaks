@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"SMB1"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation]
+"DependOnService"=hex(7):42,00,6f,00,77,00,73,00,65,00,72,00,00,00,4d,00,52,00,\
+  78,00,53,00,6d,00,62,00,32,00,30,00,00,00,4e,00,53,00,49,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mrxsmb10]
+"Start"=dword:00000004
