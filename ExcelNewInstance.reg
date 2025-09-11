@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\OpenNewInstance]
+@="Ouvrir dans une nouvelle instance d'Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\OpenNewInstance\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office12\\EXCEL.EXE\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\OpenNewInstance]
+@="Ouvrir dans une nouvelle instance d'Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\OpenNewInstance\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office12\\EXCEL.EXE\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Excel.SheetBinaryMacroEnabled.12\shell\OpenNewInstance]
+@="Ouvrir dans une nouvelle instance d'Excel"
+
+[HKEY_CLASSES_ROOT\Excel.SheetBinaryMacroEnabled.12\shell\OpenNewInstance\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office12\\EXCEL.EXE\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Excel.SheetMacroEnabled.12\shell\OpenNewInstance]
+@="Ouvrir dans une nouvelle instance d'Excel"
+
+[HKEY_CLASSES_ROOT\Excel.SheetMacroEnabled.12\shell\OpenNewInstance\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office12\\EXCEL.EXE\" \"%1\""
