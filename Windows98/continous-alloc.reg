@@ -1,0 +1,4 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\FileSystem]
+"ContigFileAllocSize"=dword:00000200

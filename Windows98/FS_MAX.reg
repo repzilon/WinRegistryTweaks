@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\FS Templates\Workstation]
+"NameCache"=hex:70,17,00,00
+"PathCache"=hex:80,00,00,00
+@="Workstation"

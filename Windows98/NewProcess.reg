@@ -1,0 +1,13 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\AdvancedOptions\BROWSE\BROWSE_NEW_PROCESS]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\BrowseNewProcess"
+"Text"="Lancer les fenêtres du navigateur dans un  processus indépendant"
+"PlugUIText"="@inetcplc.dll,-4733"
+"Type"="checkbox"
+"CheckedValue"="yes"
+"UncheckedValue"="no"
+"ValueName"="BrowseNewProcess"
+"DefaultValue"="yes"
+"HKeyRoot"=dword:80000001
+"HelpID"="iexplore.hlp#50178"

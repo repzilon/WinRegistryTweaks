@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Applets\Defrag\AppStartParams]
+"MaxApps"=dword:00000078
+"MaxNoUseDays"=dword:0000003c
+"MinLogSize"=dword:000001c2
