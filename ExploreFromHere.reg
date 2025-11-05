@@ -1,4 +1,4 @@
-Windows Registry Editor Version 5.00
+REGEDIT4
 
 [HKEY_CLASSES_ROOT\Directory\shell\Explore from here]
 @="Explorer à partir d'ici"

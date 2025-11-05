@@ -1,4 +1,4 @@
-Windows Registry Editor Version 5.00
+REGEDIT4
 
 ; This adds the ability to Right-Click on a .dll or .ocx
 ; and get the Register / UnRegister options.
